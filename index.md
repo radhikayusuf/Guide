@@ -11,3 +11,10 @@
 ```markdown
 ### BUGS 
 ```
+
+
+
+```markdown
+### UTILS 
+```
+- [Hide APK Icon on launcher] (https://stackoverflow.com/questions/19114439/android-hide-unhide-app-icon-programmatically)
